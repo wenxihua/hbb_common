@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.hotting.fun"];
-pub const RS_PUB_KEY: &str = "VExjcb2+RQZGPrpihL4AecHh3Ap3oOKCbsKb9XoSPY8=";
+pub const RS_PUB_KEY: &str = "HwFt2PBZ0Pdrr9boDtdUjVjbfQlDmm5D5ygs2Ual1U8=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
